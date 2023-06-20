@@ -1,0 +1,1663 @@
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+
+C/C++
+struct keyword
+custom types
+
+int, float, double
+
+struct Point {
+	int x, int y;
+}
+struct Student {
+	int roll_number;
+	string address;
+
+}
+class Rectangle {
+
+}
+//built in type
+Int, Float, Double, Bool, String, Character
+
+struct Student {
+	var name:String
+	var rollNumber:Int
+	var address:String
+}
+
+//constructor
+//special method with same name as class name
+//no return type
+//default constructor
+
+
+//initializer
+//special method
+//no return
+// init()
+
+
+//when we add a custom initializer to a struct, it does not get a memberwise initializer
+
+
+
+struct Temperature {
+	var celsius:Double = 0.0
+}
+
+var temp = Temperature()			//memory allocated for temperature
+									//8 bytes
+
+struct Rectangle {					//8 bytes on 32 bit machine
+	//stored properties
+	var width:Int
+	var height:Int
+}
+
+
+//instance properties, instance methods
+struct Size {
+	var width:Int
+	var height:Int
+
+	func area()->Int {
+		width * height
+	}
+}
+
+//type properties and type methods
+
+
+class Rectangle {
+	int width;
+	int height;
+
+	static int numberOfRectangles;
+
+	static void printRectangleCount() {
+
+	}
+}
+
+Rectangle.printRecgangleCount();
+Rectangle.numberOfRectangles
+
+
+
+
+
+
+
+
+
+
+
+
+
