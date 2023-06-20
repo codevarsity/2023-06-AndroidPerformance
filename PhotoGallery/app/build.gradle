@@ -5,7 +5,7 @@ android {
     buildToolsVersion '25.0.2'
     namespace 'com.codevarsity.android.photogallery'
     defaultConfig {
-        applicationId "com.bignerdranch.android.photogallery"
+        applicationId "com.codevarsity.android.photogallery"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 1
