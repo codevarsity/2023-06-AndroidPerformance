@@ -61,10 +61,10 @@ public class CountryAdapter extends BaseAdapter {
 
         View mainView = null;
         
-            mainView = LayoutInflater.from(context).inflate(R.layout.row, null);
-            ImageView imageView = mainView.findViewById(R.id.imageView);
-
+        mainView = LayoutInflater.from(context).inflate(R.layout.row, null);
         ImageView imageView = mainView.findViewById(R.id.imageView);
+
+        //ImageView imageView = mainView.findViewById(R.id.imageView);
 
         //fetch image from server
         Country country = countries.get(i);
